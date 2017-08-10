@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "A sample post"
-date:   2016-09-16 23:34:56 +0530
+title:  "Simple Website"
 ---
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example Post
+title: "Data Visualization"
 ---
 
 ![sample post]({{site.baseurl}}/images/image-2.png)
@@ -22,7 +22,7 @@ title: Example Post
 
 ## Paragraphs
 
-These are sample paragraphs showing *italics*, **bold** and ``code`` text style. Here is an unordered  list 
+These are sample paragraphs showing *italics*, **bold** and ``code`` text style. Here is an unordered  list
 
 * Item 1
 * Item 2
@@ -36,7 +36,7 @@ and an ordered list
 
 >A blockquote would look like this.
 
-> another one 
+> another one
 >
 > with multiple lines
 
@@ -74,6 +74,6 @@ This is a simple markdown table
 Use below code to show **Table of Contents** on a page
 
 {% highlight css %}
-* Do not remove this line (it will not be displayed) 
+* Do not remove this line (it will not be displayed)
 {:toc}
 {% endhighlight %}
